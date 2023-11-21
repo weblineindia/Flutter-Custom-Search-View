@@ -1,4 +1,4 @@
-# Flutter - OTP Authentication
+# Flutter - Custom Search View
 
 A Flutter based Search Field component, used to search data from network, local db or array.
 
