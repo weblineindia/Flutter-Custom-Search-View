@@ -26,7 +26,7 @@ We have tested our program in above version, however you can use it in other ver
 
 
 ## Demo
-[![](wliotpauthentication.jpg)](./search_field.gif)
+![](./search_field.gif)
 
 ------
 
